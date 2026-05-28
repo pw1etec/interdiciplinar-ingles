@@ -1,7 +1,7 @@
 
 ### 1. Markdown: UrbanFlow (Mobilidade Urbana)
 
-```markdown
+
 # 🚍 UrbanFlow - Smart Mobility App
 
 ## 🏢 About the Company
@@ -25,13 +25,13 @@ Tourists waste too much time trying to understand local traffic and transit syst
 1. **Prototype (Figma):** High-Fidelity Screens (Home/Map, Routing, Transportation Options).
 2. **Documentation:** Presentation script (Pitch) in English.
 
-```
+
 
 ---
 
 ### 2. Markdown: TasteMatch (Gastronomia e Cultura)
 
-```markdown
+
 # 🍣 TasteMatch - Cultural Food Platform
 
 ## 🏢 About the Company
@@ -55,13 +55,13 @@ Finding authentic and affordable food in a foreign country is difficult. Further
 1. **Prototype (Figma):** High-Fidelity Screens (Discovery Feed, Dish Details, Profile/Allergy Setup).
 2. **Documentation:** Presentation script (Pitch) in English.
 
-```
+
 
 ---
 
 ### 3. Markdown: StudySync (Educação e Organização)
 
-```markdown
+
 # 📚 StudySync - Educational Dashboard
 
 ## 🏢 About the Company
@@ -85,13 +85,13 @@ Exchange students deal with chaotic routines: assignment deadlines, time zone cl
 1. **Prototype (Figma):** High-Fidelity Screens (Main Dashboard, Kanban Organizer, Match/Community Screen).
 2. **Documentation:** Presentation script (Pitch) in English.
 
-```
+
 
 ---
 
 ### 4. Markdown: EcoTech Exchange (Sustentabilidade)
 
-```markdown
+
 # ♻️ EcoTech Exchange - Secure Marketplace
 
 ## 🏢 About the Company
@@ -115,4 +115,4 @@ Students buy electronics abroad and, when it's time to return home, they generat
 1. **Prototype (Figma):** High-Fidelity Screens (Login/Authentication, Catalog/Showcase, Product Screen, Negotiation Chat).
 2. **Documentation:** Presentation script (Pitch) in English.
 
-```
+
