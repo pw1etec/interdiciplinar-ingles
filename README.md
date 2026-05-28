@@ -1,8 +1,5 @@
 
-### 1. Markdown: UrbanFlow (Mobilidade Urbana)
-
-
-# 🚍 UrbanFlow - Smart Mobility App
+#1. 🚍 UrbanFlow - Smart Mobility App
 
 ## 🏢 About the Company
 **UrbanFlow** is a European startup focused on smart mobility. Our mission is to simplify public transportation and commuting in large cities, making travel for international tourists and students more sustainable and stress-free.
@@ -29,10 +26,7 @@ Tourists waste too much time trying to understand local traffic and transit syst
 
 ---
 
-### 2. Markdown: TasteMatch (Gastronomia e Cultura)
-
-
-# 🍣 TasteMatch - Cultural Food Platform
+#2. 🍣 TasteMatch - Cultural Food Platform
 
 ## 🏢 About the Company
 **TasteMatch** is a global food tourism network based in Canada. We connect exchange students and travelers to the true essence of local cuisine, helping them avoid tourist traps.
@@ -59,10 +53,7 @@ Finding authentic and affordable food in a foreign country is difficult. Further
 
 ---
 
-### 3. Markdown: StudySync (Educação e Organização)
-
-
-# 📚 StudySync - Educational Dashboard
+# 3. 📚 StudySync - Educational Dashboard
 
 ## 🏢 About the Company
 **StudySync** is an American EdTech (Educational Technology) company. We create digital tools to ensure the academic success and mental well-being of international students living far from home.
