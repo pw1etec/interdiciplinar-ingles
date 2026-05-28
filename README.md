@@ -1,5 +1,5 @@
 
-#1. 🚍 UrbanFlow - Smart Mobility App
+# 1. 🚍 UrbanFlow - Smart Mobility App
 
 ## 🏢 About the Company
 **UrbanFlow** is a European startup focused on smart mobility. Our mission is to simplify public transportation and commuting in large cities, making travel for international tourists and students more sustainable and stress-free.
@@ -26,7 +26,7 @@ Tourists waste too much time trying to understand local traffic and transit syst
 
 ---
 
-#2. 🍣 TasteMatch - Cultural Food Platform
+# 2. 🍣 TasteMatch - Cultural Food Platform
 
 ## 🏢 About the Company
 **TasteMatch** is a global food tourism network based in Canada. We connect exchange students and travelers to the true essence of local cuisine, helping them avoid tourist traps.
@@ -80,10 +80,7 @@ Exchange students deal with chaotic routines: assignment deadlines, time zone cl
 
 ---
 
-### 4. Markdown: EcoTech Exchange (Sustentabilidade)
-
-
-# ♻️ EcoTech Exchange - Secure Marketplace
+# 4. ♻️ EcoTech Exchange - Secure Marketplace
 
 ## 🏢 About the Company
 **EcoTech Exchange** is a sustainable technology NGO based in Australia. We work to reduce global e-waste by creating safe environments for the recirculation of gadgets among young people.
